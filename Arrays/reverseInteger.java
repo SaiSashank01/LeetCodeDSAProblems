@@ -19,3 +19,5 @@ class reverseInteger {
         System.out.println("digit");
     }
 }
+
+// Outputs - Reversing the number Which is give by the User
